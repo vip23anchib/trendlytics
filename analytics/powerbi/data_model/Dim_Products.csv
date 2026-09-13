@@ -1,0 +1,248 @@
+product_id,product_name,brand,category_name,category_slug,price,original_price,discount_percentage,rating,rating_count,color,delivery_days,occasion,season,material,popularity_score,is_trending
+1,Emerald Floral Chiffon Maxi Dress,Aura & Silk,Women,women,2799,4999,44,4.6,328,Emerald,2,Party,Summer,Chiffon Silk Blend,96.0,1
+2,Midnight Black Satin Evening Slip Dress,Noir Paris,Women,women,3499,5999,41,4.8,512,Black,3,Party,All Season,Mulberry Satin,98.0,1
+3,Pastel Peach Handcrafted Anarkali Kurta Set,Saffron Studio,Women,women,4299,7499,42,4.7,410,Pink,2,Wedding,All Season,Chanderi Silk with Zari Work,94.5,1
+4,Ivory Linen Boxy Crop Top,Urban Thread,Women,women,1299,2199,40,4.3,189,White,3,Casual,Summer,100% Pure Organic Linen,82.0,0
+5,High-Waist Wide Leg Vintage Denim Trousers,Stitch & Stone,Women,women,2199,3999,45,4.5,275,Blue,4,Casual,All Season,Rigid Cotton Denim,89.0,1
+6,Oversized Cuban Collar Linen Shirt,Urban Thread,Men,men,1899,3299,42,4.5,420,Beige,2,Casual,Summer,100% French Linen,95.0,1
+7,Navy Tailored Egyptian Cotton Oxford Shirt,Loom & Weave,Men,men,2499,4299,41,4.7,380,Navy,3,Formal,All Season,Giza Egyptian Cotton,88.0,0
+8,Heavyweight Supima Cotton Crewneck Tee,Vibe Republic,Men,men,999,1699,41,4.4,650,Black,2,Casual,All Season,240 GSM Supima Cotton,92.0,1
+9,Structured Charcoal Wool Blend Blazer,Noir Paris,Men,men,5499,9999,45,4.8,195,Grey,3,Formal,Winter,Fine Merino Wool Blend,86.0,0
+10,Slim Tapered Stretch Selvedge Jeans,Stitch & Stone,Men,men,2799,4999,44,4.6,340,Blue,5,Casual,All Season,Japanese Selvedge Denim,87.0,1
+11,CloudGlide Retro Minimalist Leather Sneakers,SoleCraft Co.,Footwear,footwear,3499,6499,46,4.7,820,White,2,Casual,All Season,Full Grain Italian Leather,99.0,1
+12,Stiletto Pointed-Toe Velvet Pumps,Velora Luxe,Footwear,footwear,2999,5299,43,4.6,230,Red,3,Party,All Season,Plush Suede Velvet,91.0,1
+13,Classic Hand-Burnished Leather Oxford Brogues,SoleCraft Co.,Footwear,footwear,4499,7999,43,4.8,310,Brown,2,Formal,All Season,Hand-Burnished Calfskin Leather,89.0,0
+14,Oud Amber Noir Eau De Parfum (100ml),Velora Luxe,Beauty,beauty,3899,6500,40,4.9,640,Gold,2,Party,All Season,Artisanal Essential Oils,97.0,1
+15,Velvet Matte Liquid Lip Duo - Berry & Crimson,Velora Luxe,Beauty,beauty,1199,1999,40,4.7,920,Red,2,Party,All Season,Hyaluronic Acid Infused Matte Pigment,95.0,1
+16,Monogram Structured Leather Tote Bag,Noir Paris,Accessories,accessories,4999,8999,44,4.8,430,Beige,3,Formal,All Season,Vegan Saffiano Leather,96.0,1
+17,Sapphire Crystal Chronograph Rose Gold Watch,Aethel Modern,Accessories,accessories,6999,12999,46,4.9,380,Rose Gold,2,Formal,All Season,316L Stainless Steel & Sapphire Crystal,98.0,1
+18,Verona Street Urban Maroon Trousers & Jeans,Verona Street,Women,women,4180,5574,25,4.5,313,Maroon,3,Formal,All Season,100% Cotton,95.1,1
+19,Verona Street Artisanal Pink T-Shirts & Polos,Verona Street,Men,men,1791,3582,50,4.9,217,Pink,3,Party,All Season,Genuine Leather,89.4,0
+20,Noir Paris Minimalist Maroon Formal Shoes,Noir Paris,Footwear,footwear,3294,8237,60,3.9,731,Maroon,4,Party,Summer,Rayon Chiffon,81.6,0
+21,Emerald Floral Chiffon Maxi Dress,Aura & Silk,Women,women,2799,4999,44,4.6,328,Emerald,2,Party,Summer,Chiffon Silk Blend,96.0,1
+22,Midnight Black Satin Evening Slip Dress,Noir Paris,Women,women,3499,5999,41,4.8,512,Black,3,Party,All Season,Mulberry Satin,98.0,1
+23,Pastel Peach Handcrafted Anarkali Kurta Set,Saffron Studio,Women,women,4299,7499,42,4.7,410,Pink,2,Wedding,All Season,Chanderi Silk with Zari Work,94.5,1
+24,Ivory Linen Boxy Crop Top,Urban Thread,Women,women,1299,2199,40,4.3,189,White,3,Casual,Summer,100% Pure Organic Linen,82.0,0
+25,High-Waist Wide Leg Vintage Denim Trousers,Stitch & Stone,Women,women,2199,3999,45,4.5,275,Blue,4,Casual,All Season,Rigid Cotton Denim,89.0,1
+26,Oversized Cuban Collar Linen Shirt,Urban Thread,Men,men,1899,3299,42,4.5,420,Beige,2,Casual,Summer,100% French Linen,95.0,1
+27,Navy Tailored Egyptian Cotton Oxford Shirt,Loom & Weave,Men,men,2499,4299,41,4.7,380,Navy,3,Formal,All Season,Giza Egyptian Cotton,88.0,0
+28,Heavyweight Supima Cotton Crewneck Tee,Vibe Republic,Men,men,999,1699,41,4.4,650,Black,2,Casual,All Season,240 GSM Supima Cotton,92.0,1
+29,Structured Charcoal Wool Blend Blazer,Noir Paris,Men,men,5499,9999,45,4.8,195,Grey,3,Formal,Winter,Fine Merino Wool Blend,86.0,0
+30,Slim Tapered Stretch Selvedge Jeans,Stitch & Stone,Men,men,2799,4999,44,4.6,340,Blue,5,Casual,All Season,Japanese Selvedge Denim,87.0,1
+31,CloudGlide Retro Minimalist Leather Sneakers,SoleCraft Co.,Footwear,footwear,3499,6499,46,4.7,820,White,2,Casual,All Season,Full Grain Italian Leather,99.0,1
+32,Stiletto Pointed-Toe Velvet Pumps,Velora Luxe,Footwear,footwear,2999,5299,43,4.6,230,Red,3,Party,All Season,Plush Suede Velvet,91.0,1
+33,Classic Hand-Burnished Leather Oxford Brogues,SoleCraft Co.,Footwear,footwear,4499,7999,43,4.8,310,Brown,2,Formal,All Season,Hand-Burnished Calfskin Leather,89.0,0
+34,Oud Amber Noir Eau De Parfum (100ml),Velora Luxe,Beauty,beauty,3899,6500,40,4.9,640,Gold,2,Party,All Season,Artisanal Essential Oils,97.0,1
+35,Velvet Matte Liquid Lip Duo - Berry & Crimson,Velora Luxe,Beauty,beauty,1199,1999,40,4.7,920,Red,2,Party,All Season,Hyaluronic Acid Infused Matte Pigment,95.0,1
+36,Monogram Structured Leather Tote Bag,Noir Paris,Accessories,accessories,4999,8999,44,4.8,430,Beige,3,Formal,All Season,Vegan Saffiano Leather,96.0,1
+37,Sapphire Crystal Chronograph Rose Gold Watch,Aethel Modern,Accessories,accessories,6999,12999,46,4.9,380,Rose Gold,2,Formal,All Season,316L Stainless Steel & Sapphire Crystal,98.0,1
+38,SoleCraft Co. Bespoke Charcoal Blazers & Jackets,SoleCraft Co.,Women,women,2403,6008,60,4.0,345,Charcoal,2,Formal,All Season,100% Cotton,98.9,1
+39,Noir Paris Boho Burgundy Kurtas,Noir Paris,Men,men,779,1558,50,4.4,714,Burgundy,2,Formal,Winter,100% Cotton,97.4,0
+40,Saffron Studio Urban Beige Formal Shoes,Saffron Studio,Footwear,footwear,1739,2676,35,4.4,936,Beige,5,Formal,Monsoon,Organic Linen,70.3,1
+41,Urban Thread Tailored Maroon Face Makeup & Blush,Urban Thread,Beauty,beauty,1034,1478,30,3.9,119,Maroon,4,Formal,Monsoon,Mulberry Silk,85.3,0
+42,Noir Paris Signature Charcoal Fashion Jewellery,Noir Paris,Accessories,accessories,3879,9699,60,4.2,411,Charcoal,5,Sports,All Season,Organic Linen,84.9,0
+43,Stitch & Stone Tailored Navy Blazers & Jackets,Stitch & Stone,Women,women,1971,4929,60,4.5,378,Navy,3,Sports,Summer,Rayon Chiffon,80.2,0
+44,Noir Paris Structured White T-Shirts & Polos,Noir Paris,Men,men,5070,6761,25,4.9,698,White,5,Loungewear,All Season,100% Cotton,79.7,1
+45,Loom & Weave Artisanal Burgundy Formal Shoes,Loom & Weave,Footwear,footwear,3844,5492,30,4.7,458,Burgundy,2,Party,Winter,Velvet Blend,85.6,0
+46,Saffron Studio Urban Pink Serums & Skincare,Saffron Studio,Beauty,beauty,2142,3895,45,4.3,907,Pink,3,Casual,Summer,Mulberry Silk,92.3,1
+47,Loom & Weave Relaxed Fit Olive Watches & Chronos,Loom & Weave,Accessories,accessories,3410,4547,25,3.8,186,Olive,4,Casual,Summer,Organic Linen,73.6,0
+48,Noir Paris Minimalist White Dresses,Noir Paris,Women,women,1068,1527,30,4.0,876,White,4,Party,Summer,Selvedge Denim,75.4,0
+49,Velora Luxe Urban Lavender Formal Shirts,Velora Luxe,Men,men,2036,3703,45,4.8,167,Lavender,2,Party,Winter,Organic Linen,90.1,0
+50,Vibe Republic Boho Black Running & Training Shoes,Vibe Republic,Footwear,footwear,3985,9963,60,4.5,742,Black,3,Loungewear,Monsoon,Selvedge Denim,76.3,0
+51,Stitch & Stone Minimalist Lavender Fragrances & Perfumes,Stitch & Stone,Beauty,beauty,642,1070,40,4.9,45,Lavender,5,Wedding,Monsoon,Genuine Leather,69.4,1
+52,Velora Luxe Tailored Lavender Handbags & Totes,Velora Luxe,Accessories,accessories,3674,7349,50,4.6,660,Lavender,5,Formal,Winter,100% Cotton,93.7,0
+53,Aethel Modern Boho Olive Trousers & Jeans,Aethel Modern,Women,women,859,1718,50,4.3,413,Olive,2,Sports,Monsoon,Genuine Leather,70.6,0
+54,Aethel Modern Structured Lavender Casual Shirts,Aethel Modern,Men,men,2435,6088,60,4.9,725,Lavender,2,Party,All Season,Selvedge Denim,90.8,0
+55,Stitch & Stone Urban Emerald Formal Shoes,Stitch & Stone,Footwear,footwear,5184,6912,25,4.4,517,Emerald,6,Sports,Summer,Velvet Blend,87.8,1
+56,Loom & Weave Relaxed Fit Black Fragrances & Perfumes,Loom & Weave,Beauty,beauty,1733,3466,50,4.2,175,Black,3,Wedding,Monsoon,Genuine Leather,82.3,1
+57,Loom & Weave Urban Charcoal Fashion Jewellery,Loom & Weave,Accessories,accessories,2769,5539,50,4.0,769,Charcoal,2,Casual,All Season,Rayon Chiffon,81.0,0
+58,Loom & Weave Signature Emerald Tops & Tees,Loom & Weave,Women,women,2195,3136,30,4.8,918,Emerald,4,Loungewear,Monsoon,Genuine Leather,95.7,0
+59,Vibe Republic Signature Charcoal Casual Shirts,Vibe Republic,Men,men,2631,6579,60,4.7,395,Charcoal,2,Formal,Summer,Selvedge Denim,74.2,1
+60,Aura & Silk Boho Black Loafers & Flats,Aura & Silk,Footwear,footwear,3670,9176,60,4.9,382,Black,3,Loungewear,Summer,Mulberry Silk,87.6,1
+61,Velora Luxe Signature Lavender Face Makeup & Blush,Velora Luxe,Beauty,beauty,1308,1635,20,4.8,308,Lavender,3,Party,Monsoon,Merino Wool,91.8,0
+62,Noir Paris Vintage Burgundy Fashion Jewellery,Noir Paris,Accessories,accessories,6489,8653,25,4.6,118,Burgundy,2,Party,Summer,Genuine Leather,92.2,0
+63,Stitch & Stone Embroidered Maroon Kurtas & Suits,Stitch & Stone,Women,women,2350,5877,60,4.9,676,Maroon,2,Wedding,Monsoon,Genuine Leather,82.7,0
+64,Velora Luxe Tailored Black T-Shirts & Polos,Velora Luxe,Men,men,1603,4008,60,4.3,116,Black,2,Party,Winter,Velvet Blend,95.1,0
+65,Velora Luxe Signature Beige Sneakers,Velora Luxe,Footwear,footwear,5509,6887,20,4.7,168,Beige,5,Party,Monsoon,Genuine Leather,96.3,0
+66,Velora Luxe Bespoke Navy Face Makeup & Blush,Velora Luxe,Beauty,beauty,1170,1463,20,4.6,754,Navy,5,Wedding,All Season,Selvedge Denim,65.6,0
+67,Velora Luxe Minimalist Pink Handbags & Totes,Velora Luxe,Accessories,accessories,1954,2792,30,4.8,439,Pink,6,Party,All Season,Merino Wool,71.4,0
+68,Verona Street Artisanal Emerald Kurtas & Suits,Verona Street,Women,women,4030,5038,20,4.8,403,Emerald,4,Formal,Monsoon,Organic Linen,97.0,0
+69,SoleCraft Co. Artisanal Red Casual Shirts,SoleCraft Co.,Men,men,2450,4456,45,4.7,947,Red,3,Party,Summer,Merino Wool,79.2,0
+70,Velora Luxe Urban Red Running & Training Shoes,Velora Luxe,Footwear,footwear,1829,4573,60,4.6,180,Red,6,Party,All Season,Merino Wool,96.7,0
+71,Kritika Ethnics Textured Pink Face Makeup & Blush,Kritika Ethnics,Beauty,beauty,869,1738,50,4.4,230,Pink,3,Formal,Monsoon,Velvet Blend,89.7,0
+72,Aura & Silk Minimalist White Handbags & Totes,Aura & Silk,Accessories,accessories,3582,4478,20,4.8,939,White,4,Formal,Monsoon,Organic Linen,90.0,0
+73,Loom & Weave Minimalist Maroon Dresses,Loom & Weave,Women,women,1670,3341,50,4.2,938,Maroon,2,Sports,Summer,Genuine Leather,70.5,1
+74,Noir Paris Artisanal White Jackets & Hoodies,Noir Paris,Men,men,3712,4950,25,4.5,912,White,2,Loungewear,Winter,100% Cotton,98.4,0
+75,Noir Paris Bespoke Olive Running & Training Shoes,Noir Paris,Footwear,footwear,2617,4759,45,3.9,872,Olive,4,Wedding,Winter,Genuine Leather,84.7,0
+76,Aura & Silk Relaxed Fit Navy Face Makeup & Blush,Aura & Silk,Beauty,beauty,1743,2491,30,4.1,512,Navy,3,Party,Summer,Rayon Chiffon,90.2,0
+77,Aethel Modern Embroidered Charcoal Watches & Chronos,Aethel Modern,Accessories,accessories,5006,9102,45,3.9,190,Charcoal,6,Formal,All Season,Genuine Leather,67.0,0
+78,Saffron Studio Structured Charcoal Sarees,Saffron Studio,Women,women,1847,4619,60,4.1,790,Charcoal,3,Formal,All Season,Mulberry Silk,95.6,0
+79,Loom & Weave Textured Lavender Formal Shirts,Loom & Weave,Men,men,3143,5715,45,4.5,315,Lavender,2,Sports,All Season,Velvet Blend,89.4,0
+80,SoleCraft Co. Relaxed Fit Black Formal Shoes,SoleCraft Co.,Footwear,footwear,2538,4616,45,4.7,714,Black,2,Loungewear,Summer,100% Cotton,77.3,0
+81,Noir Paris Tailored Red Serums & Skincare,Noir Paris,Beauty,beauty,1044,1492,30,4.2,728,Red,3,Loungewear,Monsoon,Genuine Leather,70.4,0
+82,Aethel Modern Vintage Black Sunglasses,Aethel Modern,Accessories,accessories,4869,8853,45,4.2,947,Black,3,Formal,Monsoon,100% Cotton,84.4,0
+83,SoleCraft Co. Vintage Red Trousers & Jeans,SoleCraft Co.,Women,women,2206,2942,25,4.2,800,Red,3,Sports,All Season,Rayon Chiffon,98.8,0
+84,Aura & Silk Structured Maroon Jackets & Hoodies,Aura & Silk,Men,men,1875,3750,50,4.8,897,Maroon,4,Formal,Winter,Selvedge Denim,67.4,0
+85,Velora Luxe Relaxed Fit Black Heels & Pumps,Velora Luxe,Footwear,footwear,5450,7786,30,3.9,787,Black,2,Loungewear,All Season,Velvet Blend,70.6,0
+86,Noir Paris Structured Red Fragrances & Perfumes,Noir Paris,Beauty,beauty,1230,2050,40,4.7,935,Red,4,Loungewear,Monsoon,Rayon Chiffon,85.1,0
+87,Stitch & Stone Embroidered Black Fashion Jewellery,Stitch & Stone,Accessories,accessories,3556,4446,20,4.4,358,Black,2,Casual,All Season,Genuine Leather,72.1,0
+88,Noir Paris Artisanal Red Sarees,Noir Paris,Women,women,3576,6502,45,4.4,822,Red,6,Formal,All Season,Rayon Chiffon,95.3,1
+89,Verona Street Minimalist Black Jeans & Chinos,Verona Street,Men,men,3621,5572,35,4.6,885,Black,3,Party,All Season,100% Cotton,75.6,0
+90,SoleCraft Co. Boho Black Loafers & Flats,SoleCraft Co.,Footwear,footwear,3976,9940,60,3.9,696,Black,2,Casual,Summer,Merino Wool,76.0,0
+91,Velora Luxe Embroidered Beige Face Makeup & Blush,Velora Luxe,Beauty,beauty,1089,1676,35,4.3,827,Beige,3,Formal,Monsoon,Rayon Chiffon,70.2,0
+92,Saffron Studio Vintage Black Sunglasses,Saffron Studio,Accessories,accessories,4320,7200,40,4.1,520,Black,4,Sports,Summer,Rayon Chiffon,92.4,0
+93,Urban Thread Artisanal Maroon Dresses,Urban Thread,Women,women,1617,3234,50,3.9,710,Maroon,3,Party,Summer,Genuine Leather,86.1,0
+94,Verona Street Minimalist Pink Jeans & Chinos,Verona Street,Men,men,2116,5292,60,4.4,327,Pink,2,Formal,All Season,Organic Linen,65.0,0
+95,Verona Street Urban Burgundy Running & Training Shoes,Verona Street,Footwear,footwear,1844,3689,50,4.4,572,Burgundy,2,Wedding,Summer,Rayon Chiffon,73.7,0
+96,Verona Street Minimalist Olive Serums & Skincare,Verona Street,Beauty,beauty,829,1037,20,4.7,948,Olive,6,Casual,Monsoon,Organic Linen,75.2,1
+97,Vibe Republic Urban Burgundy Watches & Chronos,Vibe Republic,Accessories,accessories,1802,4507,60,4.4,421,Burgundy,3,Party,Winter,Selvedge Denim,67.7,0
+98,Vibe Republic Textured Red Tops & Tees,Vibe Republic,Women,women,2637,3516,25,4.0,298,Red,3,Wedding,Summer,Genuine Leather,80.1,0
+99,Loom & Weave Textured Emerald Jeans & Chinos,Loom & Weave,Men,men,1339,2679,50,4.6,753,Emerald,3,Casual,All Season,Velvet Blend,68.5,0
+100,Noir Paris Relaxed Fit Maroon Heels & Pumps,Noir Paris,Footwear,footwear,1906,2933,35,4.3,459,Maroon,3,Formal,Winter,Merino Wool,97.6,0
+101,Kritika Ethnics Minimalist Emerald Face Makeup & Blush,Kritika Ethnics,Beauty,beauty,2936,3670,20,4.2,523,Emerald,4,Sports,Monsoon,Organic Linen,67.4,1
+102,Saffron Studio Relaxed Fit Burgundy Watches & Chronos,Saffron Studio,Accessories,accessories,4958,9917,50,4.9,650,Burgundy,3,Wedding,All Season,Genuine Leather,95.9,0
+103,Kritika Ethnics Signature Red Blazers & Jackets,Kritika Ethnics,Women,women,2511,6279,60,4.9,288,Red,2,Sports,Monsoon,Mulberry Silk,75.4,0
+104,Stitch & Stone Tailored Black T-Shirts & Polos,Stitch & Stone,Men,men,2686,4884,45,4.3,620,Black,4,Wedding,Winter,Merino Wool,88.5,0
+105,Urban Thread Embroidered Charcoal Heels & Pumps,Urban Thread,Footwear,footwear,2550,4638,45,4.9,769,Charcoal,2,Wedding,Summer,Organic Linen,94.5,1
+106,Stitch & Stone Vintage Maroon Serums & Skincare,Stitch & Stone,Beauty,beauty,984,1968,50,4.1,633,Maroon,5,Formal,Summer,Selvedge Denim,68.0,0
+107,SoleCraft Co. Relaxed Fit Lavender Sunglasses,SoleCraft Co.,Accessories,accessories,2781,5057,45,3.8,442,Lavender,2,Loungewear,Winter,Velvet Blend,74.4,1
+108,Velora Luxe Artisanal Beige Dresses,Velora Luxe,Women,women,2792,5585,50,4.3,80,Beige,2,Sports,Winter,Genuine Leather,71.5,0
+109,Kritika Ethnics Relaxed Fit Emerald T-Shirts & Polos,Kritika Ethnics,Men,men,1506,2318,35,4.7,508,Emerald,3,Wedding,Winter,Genuine Leather,70.3,0
+110,SoleCraft Co. Signature Pink Running & Training Shoes,SoleCraft Co.,Footwear,footwear,1210,3026,60,4.4,788,Pink,2,Formal,All Season,Merino Wool,93.2,1
+111,Aura & Silk Relaxed Fit Emerald Fragrances & Perfumes,Aura & Silk,Beauty,beauty,1450,2417,40,4.7,495,Emerald,2,Formal,Winter,Mulberry Silk,73.7,0
+112,Urban Thread Textured Burgundy Wallets & Belts,Urban Thread,Accessories,accessories,1107,2768,60,4.0,400,Burgundy,4,Formal,Summer,Mulberry Silk,81.7,0
+113,Stitch & Stone Artisanal Black Dresses,Stitch & Stone,Women,women,1844,3353,45,3.8,870,Black,3,Loungewear,Monsoon,100% Cotton,92.1,0
+114,Saffron Studio Structured Beige Formal Shirts,Saffron Studio,Men,men,3748,4686,20,4.6,361,Beige,2,Sports,All Season,Selvedge Denim,82.1,0
+115,Stitch & Stone Embroidered Lavender Loafers & Flats,Stitch & Stone,Footwear,footwear,4168,5211,20,4.2,750,Lavender,3,Wedding,All Season,Velvet Blend,68.0,1
+116,Verona Street Embroidered Lavender Fragrances & Perfumes,Verona Street,Beauty,beauty,848,2122,60,3.9,854,Lavender,6,Loungewear,Monsoon,100% Cotton,92.0,0
+117,Urban Thread Signature Lavender Sunglasses,Urban Thread,Accessories,accessories,1500,2729,45,4.9,302,Lavender,3,Loungewear,Monsoon,Organic Linen,69.7,0
+118,Aethel Modern Tailored Pink Kurtas & Suits,Aethel Modern,Women,women,5421,6777,20,3.9,895,Pink,4,Formal,Monsoon,100% Cotton,67.9,0
+119,Aura & Silk Bespoke Burgundy Formal Shirts,Aura & Silk,Men,men,1322,1763,25,3.9,622,Burgundy,4,Wedding,Summer,Rayon Chiffon,84.1,0
+120,Aura & Silk Artisanal Lavender Heels & Pumps,Aura & Silk,Footwear,footwear,1928,4822,60,3.9,340,Lavender,2,Sports,Winter,Mulberry Silk,93.8,0
+121,Aethel Modern Minimalist Maroon Fragrances & Perfumes,Aethel Modern,Beauty,beauty,1061,2123,50,4.0,817,Maroon,3,Sports,Monsoon,Rayon Chiffon,72.4,0
+122,Aura & Silk Artisanal Red Fashion Jewellery,Aura & Silk,Accessories,accessories,6594,9420,30,4.1,429,Red,3,Casual,Summer,Genuine Leather,78.6,0
+123,Loom & Weave Structured Red Kurtas & Suits,Loom & Weave,Women,women,2794,4299,35,4.7,320,Red,5,Sports,Summer,100% Cotton,98.5,0
+124,Saffron Studio Relaxed Fit Burgundy Formal Shirts,Saffron Studio,Men,men,1664,4161,60,4.5,945,Burgundy,3,Wedding,Winter,Mulberry Silk,98.6,0
+125,Loom & Weave Textured Lavender Running & Training Shoes,Loom & Weave,Footwear,footwear,1914,3481,45,3.9,541,Lavender,3,Casual,All Season,Merino Wool,98.2,0
+126,Noir Paris Structured Pink Fragrances & Perfumes,Noir Paris,Beauty,beauty,1668,2781,40,4.5,648,Pink,3,Formal,Summer,Merino Wool,97.9,1
+127,SoleCraft Co. Embroidered Pink Wallets & Belts,SoleCraft Co.,Accessories,accessories,3775,7550,50,4.1,474,Pink,5,Casual,All Season,Mulberry Silk,97.6,0
+128,SoleCraft Co. Vintage Red Dresses,SoleCraft Co.,Women,women,4132,5904,30,3.9,596,Red,2,Loungewear,Winter,Organic Linen,93.0,0
+129,Saffron Studio Tailored Beige Casual Shirts,Saffron Studio,Men,men,3361,4482,25,4.2,595,Beige,4,Wedding,Winter,100% Cotton,82.1,0
+130,Verona Street Textured Charcoal Sneakers,Verona Street,Footwear,footwear,1774,2535,30,4.6,346,Charcoal,2,Formal,Monsoon,Rayon Chiffon,85.2,0
+131,SoleCraft Co. Signature Lavender Serums & Skincare,SoleCraft Co.,Beauty,beauty,2437,3250,25,4.6,806,Lavender,4,Loungewear,Winter,Genuine Leather,80.7,1
+132,Verona Street Boho Red Fashion Jewellery,Verona Street,Accessories,accessories,4645,7147,35,4.0,724,Red,2,Party,Monsoon,Rayon Chiffon,85.8,0
+133,Saffron Studio Bespoke Charcoal Tops & Tees,Saffron Studio,Women,women,2339,4678,50,4.0,411,Charcoal,2,Wedding,Monsoon,Velvet Blend,85.5,0
+134,SoleCraft Co. Artisanal Charcoal T-Shirts & Polos,SoleCraft Co.,Men,men,3019,4313,30,3.9,354,Charcoal,2,Formal,Summer,Mulberry Silk,74.7,1
+135,Velora Luxe Boho Maroon Loafers & Flats,Velora Luxe,Footwear,footwear,2839,4732,40,4.2,374,Maroon,4,Casual,Monsoon,Velvet Blend,92.6,0
+136,Velora Luxe Signature Pink Serums & Skincare,Velora Luxe,Beauty,beauty,1103,1697,35,3.9,67,Pink,2,Loungewear,Summer,Mulberry Silk,75.3,0
+137,Kritika Ethnics Boho Beige Watches & Chronos,Kritika Ethnics,Accessories,accessories,4817,9634,50,4.0,640,Beige,2,Formal,Summer,Velvet Blend,80.8,0
+138,Noir Paris Embroidered White Tops & Tees,Noir Paris,Women,women,4617,6156,25,4.1,921,White,2,Party,Monsoon,Mulberry Silk,92.5,1
+139,Kritika Ethnics Vintage Pink Formal Shirts,Kritika Ethnics,Men,men,1952,4880,60,3.8,738,Pink,2,Sports,All Season,Mulberry Silk,94.5,0
+140,Saffron Studio Structured Black Formal Shoes,Saffron Studio,Footwear,footwear,2499,4544,45,3.9,158,Black,3,Loungewear,Winter,100% Cotton,90.2,1
+141,Urban Thread Structured Emerald Face Makeup & Blush,Urban Thread,Beauty,beauty,577,1155,50,4.4,500,Emerald,2,Party,All Season,100% Cotton,97.6,0
+142,Verona Street Signature White Watches & Chronos,Verona Street,Accessories,accessories,1557,2831,45,4.0,488,White,4,Party,Winter,Mulberry Silk,85.6,0
+143,Aethel Modern Bespoke Emerald Trousers & Jeans,Aethel Modern,Women,women,4481,5602,20,3.8,93,Emerald,5,Party,Summer,100% Cotton,74.3,1
+144,Stitch & Stone Relaxed Fit Olive T-Shirts & Polos,Stitch & Stone,Men,men,3708,6181,40,4.8,298,Olive,4,Formal,Monsoon,Mulberry Silk,78.3,0
+145,Urban Thread Minimalist Beige Sneakers,Urban Thread,Footwear,footwear,2853,4390,35,3.9,177,Beige,4,Casual,Monsoon,Mulberry Silk,95.6,0
+146,Saffron Studio Bespoke Olive Face Makeup & Blush,Saffron Studio,Beauty,beauty,1533,3066,50,4.4,445,Olive,2,Sports,All Season,Organic Linen,78.3,0
+147,Verona Street Textured Navy Wallets & Belts,Verona Street,Accessories,accessories,4284,5356,20,4.5,159,Navy,2,Party,Winter,Genuine Leather,94.5,0
+148,SoleCraft Co. Urban Pink Blazers & Jackets,SoleCraft Co.,Women,women,3531,5885,40,4.1,466,Pink,3,Loungewear,Summer,Selvedge Denim,91.1,0
+149,Verona Street Structured Pink Formal Shirts,Verona Street,Men,men,2268,4125,45,4.3,483,Pink,3,Sports,All Season,Merino Wool,73.6,0
+150,SoleCraft Co. Relaxed Fit Olive Running & Training Shoes,SoleCraft Co.,Footwear,footwear,1684,3062,45,3.8,161,Olive,2,Sports,All Season,Velvet Blend,92.0,0
+151,Saffron Studio Textured Charcoal Serums & Skincare,Saffron Studio,Beauty,beauty,2388,3675,35,4.7,806,Charcoal,4,Party,Summer,Velvet Blend,98.1,0
+152,Velora Luxe Textured Lavender Handbags & Totes,Velora Luxe,Accessories,accessories,2673,4860,45,4.4,769,Lavender,2,Casual,Winter,Organic Linen,94.8,0
+153,Velora Luxe Boho Maroon Trousers & Jeans,Velora Luxe,Women,women,3938,5627,30,4.7,386,Maroon,3,Sports,Winter,Mulberry Silk,98.6,1
+154,Noir Paris Tailored White Jackets & Hoodies,Noir Paris,Men,men,3537,5442,35,4.8,327,White,3,Wedding,Winter,Organic Linen,71.2,0
+155,SoleCraft Co. Textured Black Heels & Pumps,SoleCraft Co.,Footwear,footwear,4072,8145,50,3.9,171,Black,2,Casual,Summer,Velvet Blend,83.0,1
+156,Aethel Modern Bespoke White Serums & Skincare,Aethel Modern,Beauty,beauty,1724,2299,25,4.4,456,White,4,Party,Winter,Genuine Leather,71.6,1
+157,Vibe Republic Tailored Navy Handbags & Totes,Vibe Republic,Accessories,accessories,3367,6734,50,4.7,892,Navy,3,Casual,Winter,Merino Wool,68.1,0
+158,Urban Thread Embroidered White Tops & Tees,Urban Thread,Women,women,3024,5040,40,4.2,116,White,5,Loungewear,All Season,Velvet Blend,95.1,1
+159,Loom & Weave Artisanal Beige Casual Shirts,Loom & Weave,Men,men,2464,4929,50,4.6,775,Beige,3,Party,Winter,Rayon Chiffon,82.8,0
+160,SoleCraft Co. Structured White Sneakers,SoleCraft Co.,Footwear,footwear,2622,6557,60,4.7,906,White,3,Wedding,Winter,Mulberry Silk,81.8,0
+161,Saffron Studio Relaxed Fit Pink Fragrances & Perfumes,Saffron Studio,Beauty,beauty,1994,3989,50,4.2,289,Pink,2,Party,Winter,Merino Wool,96.2,1
+162,Stitch & Stone Textured Lavender Sunglasses,Stitch & Stone,Accessories,accessories,3174,6349,50,4.5,718,Lavender,5,Casual,Monsoon,Rayon Chiffon,86.6,0
+163,Aura & Silk Urban Olive Kurtas & Suits,Aura & Silk,Women,women,2238,3730,40,4.3,122,Olive,3,Sports,Winter,Mulberry Silk,71.2,0
+164,Aura & Silk Signature Burgundy T-Shirts & Polos,Aura & Silk,Men,men,2029,4058,50,4.5,816,Burgundy,5,Casual,Winter,Genuine Leather,91.7,0
+165,Velora Luxe Vintage Maroon Running & Training Shoes,Velora Luxe,Footwear,footwear,2640,6600,60,4.2,318,Maroon,3,Sports,Monsoon,Selvedge Denim,79.3,0
+166,SoleCraft Co. Relaxed Fit Black Fragrances & Perfumes,SoleCraft Co.,Beauty,beauty,1660,2214,25,4.6,604,Black,2,Sports,Monsoon,Selvedge Denim,87.8,1
+167,Loom & Weave Minimalist Navy Fashion Jewellery,Loom & Weave,Accessories,accessories,3473,4631,25,4.6,343,Navy,3,Casual,Winter,Merino Wool,70.1,1
+168,Loom & Weave Structured Beige Trousers & Jeans,Loom & Weave,Women,women,2334,3112,25,4.4,142,Beige,5,Formal,Winter,Velvet Blend,83.3,0
+169,Velora Luxe Minimalist Burgundy Jeans & Chinos,Velora Luxe,Men,men,3152,3940,20,4.8,219,Burgundy,2,Loungewear,All Season,Rayon Chiffon,97.7,0
+170,Stitch & Stone Tailored Black Sneakers,Stitch & Stone,Footwear,footwear,3233,5389,40,4.1,793,Black,3,Sports,Winter,Genuine Leather,93.5,1
+171,Verona Street Boho Burgundy Face Makeup & Blush,Verona Street,Beauty,beauty,1567,2613,40,4.4,156,Burgundy,3,Loungewear,Summer,Merino Wool,92.0,0
+172,Stitch & Stone Artisanal Emerald Sunglasses,Stitch & Stone,Accessories,accessories,3857,9644,60,4.0,746,Emerald,5,Wedding,Winter,Mulberry Silk,71.3,1
+173,Verona Street Structured Navy Trousers & Jeans,Verona Street,Women,women,999,1998,50,4.3,491,Navy,6,Party,Winter,Merino Wool,90.7,1
+174,Aethel Modern Embroidered Black Kurtas,Aethel Modern,Men,men,4897,6997,30,4.6,795,Black,3,Party,Monsoon,Organic Linen,96.2,1
+175,Aura & Silk Boho Pink Formal Shoes,Aura & Silk,Footwear,footwear,2108,5270,60,4.1,597,Pink,6,Loungewear,Winter,Velvet Blend,77.4,0
+176,Kritika Ethnics Embroidered Maroon Lipsticks & Lip Care,Kritika Ethnics,Beauty,beauty,1040,2081,50,4.7,759,Maroon,2,Party,All Season,Organic Linen,70.8,1
+177,Vibe Republic Signature Charcoal Wallets & Belts,Vibe Republic,Accessories,accessories,4965,9930,50,4.8,94,Charcoal,4,Wedding,Winter,Genuine Leather,79.3,0
+178,Kritika Ethnics Artisanal Beige Sarees,Kritika Ethnics,Women,women,2773,3698,25,4.1,424,Beige,2,Sports,Monsoon,Mulberry Silk,75.0,1
+179,Aethel Modern Relaxed Fit White T-Shirts & Polos,Aethel Modern,Men,men,2662,6655,60,3.8,838,White,2,Loungewear,Winter,Mulberry Silk,65.4,1
+180,Aura & Silk Boho Red Running & Training Shoes,Aura & Silk,Footwear,footwear,7844,9805,20,3.8,60,Red,2,Wedding,Summer,Velvet Blend,68.9,0
+181,Loom & Weave Minimalist Black Serums & Skincare,Loom & Weave,Beauty,beauty,1263,1579,20,3.9,642,Black,5,Casual,Winter,Merino Wool,66.4,0
+182,Stitch & Stone Vintage Emerald Fashion Jewellery,Stitch & Stone,Accessories,accessories,1604,2674,40,4.1,659,Emerald,3,Casual,All Season,Selvedge Denim,90.6,1
+183,Aethel Modern Relaxed Fit Beige Sarees,Aethel Modern,Women,women,3316,5527,40,4.2,370,Beige,3,Party,All Season,Organic Linen,75.3,0
+184,Aethel Modern Embroidered White Casual Shirts,Aethel Modern,Men,men,751,1878,60,4.3,326,White,4,Formal,Summer,Merino Wool,83.7,0
+185,Aura & Silk Urban Black Running & Training Shoes,Aura & Silk,Footwear,footwear,3177,4889,35,4.3,599,Black,3,Casual,Summer,Mulberry Silk,72.7,1
+186,Noir Paris Vintage White Face Makeup & Blush,Noir Paris,Beauty,beauty,802,1235,35,4.6,895,White,2,Loungewear,Winter,Merino Wool,86.5,0
+187,Vibe Republic Boho Charcoal Watches & Chronos,Vibe Republic,Accessories,accessories,7008,8761,20,4.4,356,Charcoal,3,Party,Winter,Genuine Leather,76.0,0
+188,Noir Paris Textured Beige Tops & Tees,Noir Paris,Women,women,1270,3175,60,4.0,197,Beige,5,Casual,All Season,Velvet Blend,88.2,0
+189,Urban Thread Bespoke Pink T-Shirts & Polos,Urban Thread,Men,men,3389,5215,35,4.6,109,Pink,2,Party,All Season,Velvet Blend,86.4,1
+190,Loom & Weave Signature White Formal Shoes,Loom & Weave,Footwear,footwear,4759,7323,35,4.1,102,White,4,Party,Winter,Selvedge Denim,70.3,0
+191,Saffron Studio Structured Charcoal Face Makeup & Blush,Saffron Studio,Beauty,beauty,550,917,40,3.9,131,Charcoal,5,Wedding,Winter,Selvedge Denim,72.7,0
+192,Loom & Weave Urban White Wallets & Belts,Loom & Weave,Accessories,accessories,1882,3137,40,4.3,270,White,2,Loungewear,Summer,Rayon Chiffon,75.3,0
+193,Aura & Silk Signature Olive Dresses,Aura & Silk,Women,women,3481,5803,40,4.9,854,Olive,5,Wedding,All Season,Organic Linen,69.7,0
+194,Vibe Republic Structured Navy Casual Shirts,Vibe Republic,Men,men,4079,6276,35,4.7,660,Navy,2,Formal,Summer,Velvet Blend,70.8,1
+195,SoleCraft Co. Minimalist Navy Formal Shoes,SoleCraft Co.,Footwear,footwear,1772,4432,60,4.0,62,Navy,6,Loungewear,All Season,Merino Wool,75.2,0
+196,Kritika Ethnics Embroidered Red Fragrances & Perfumes,Kritika Ethnics,Beauty,beauty,841,2104,60,4.6,316,Red,2,Casual,Monsoon,Organic Linen,71.7,1
+197,SoleCraft Co. Relaxed Fit Black Fashion Jewellery,SoleCraft Co.,Accessories,accessories,3246,8116,60,4.6,483,Black,6,Wedding,Summer,Organic Linen,83.6,1
+198,Verona Street Urban Burgundy Blazers & Jackets,Verona Street,Women,women,2235,4065,45,4.8,94,Burgundy,3,Party,Summer,Merino Wool,94.9,0
+199,Kritika Ethnics Tailored Emerald T-Shirts & Polos,Kritika Ethnics,Men,men,3559,5085,30,4.6,169,Emerald,2,Sports,Summer,Velvet Blend,73.1,0
+200,Urban Thread Artisanal Charcoal Heels & Pumps,Urban Thread,Footwear,footwear,2688,6722,60,4.9,86,Charcoal,2,Loungewear,Summer,Organic Linen,85.1,0
+201,Loom & Weave Relaxed Fit White Fragrances & Perfumes,Loom & Weave,Beauty,beauty,1276,3190,60,4.1,804,White,5,Wedding,Monsoon,Merino Wool,70.3,0
+202,Kritika Ethnics Signature Black Handbags & Totes,Kritika Ethnics,Accessories,accessories,4758,6345,25,3.9,702,Black,2,Loungewear,All Season,Merino Wool,86.1,0
+203,Noir Paris Artisanal Black Blazers & Jackets,Noir Paris,Women,women,1542,3857,60,4.5,139,Black,5,Sports,Monsoon,Rayon Chiffon,70.6,1
+204,SoleCraft Co. Boho White Jackets & Hoodies,SoleCraft Co.,Men,men,2438,4434,45,4.0,349,White,3,Sports,Winter,Selvedge Denim,78.4,1
+205,Aethel Modern Bespoke White Loafers & Flats,Aethel Modern,Footwear,footwear,4596,6129,25,4.6,264,White,3,Sports,Winter,Selvedge Denim,67.0,0
+206,Saffron Studio Urban Red Lipsticks & Lip Care,Saffron Studio,Beauty,beauty,852,2130,60,3.9,789,Red,2,Sports,All Season,Mulberry Silk,87.1,0
+207,Verona Street Vintage Lavender Handbags & Totes,Verona Street,Accessories,accessories,3577,4472,20,4.1,911,Lavender,2,Formal,Monsoon,Velvet Blend,97.1,0
+208,SoleCraft Co. Embroidered Burgundy Tops & Tees,SoleCraft Co.,Women,women,1103,1577,30,4.7,850,Burgundy,5,Formal,All Season,Selvedge Denim,75.6,0
+209,Verona Street Textured Olive T-Shirts & Polos,Verona Street,Men,men,4237,5297,20,4.0,265,Olive,4,Loungewear,Summer,Rayon Chiffon,74.8,1
+210,Aethel Modern Relaxed Fit Pink Sneakers,Aethel Modern,Footwear,footwear,4723,6748,30,4.0,251,Pink,4,Casual,All Season,Genuine Leather,66.5,1
+211,Velora Luxe Structured Olive Lipsticks & Lip Care,Velora Luxe,Beauty,beauty,1684,2406,30,4.7,875,Olive,2,Wedding,All Season,Genuine Leather,80.8,0
+212,Aura & Silk Vintage Navy Fashion Jewellery,Aura & Silk,Accessories,accessories,2589,4708,45,4.0,468,Navy,2,Wedding,Summer,Velvet Blend,74.0,0
+213,Velora Luxe Relaxed Fit Emerald Dresses,Velora Luxe,Women,women,1829,4573,60,4.0,434,Emerald,2,Wedding,Winter,Rayon Chiffon,75.4,0
+214,Aethel Modern Embroidered Charcoal Kurtas,Aethel Modern,Men,men,2312,3558,35,4.9,306,Charcoal,5,Wedding,Summer,Velvet Blend,82.4,0
+215,Loom & Weave Urban Beige Formal Shoes,Loom & Weave,Footwear,footwear,4700,9400,50,4.8,939,Beige,3,Party,Winter,Genuine Leather,89.8,0
+216,Velora Luxe Embroidered Red Fragrances & Perfumes,Velora Luxe,Beauty,beauty,1899,2374,20,3.8,794,Red,4,Sports,All Season,Merino Wool,69.5,0
+217,Loom & Weave Vintage Charcoal Watches & Chronos,Loom & Weave,Accessories,accessories,2717,4529,40,4.7,223,Charcoal,3,Casual,All Season,Organic Linen,66.5,0
+218,Aethel Modern Relaxed Fit Pink Tops & Tees,Aethel Modern,Women,women,1244,1778,30,4.5,937,Pink,3,Formal,Summer,100% Cotton,82.6,0
+219,SoleCraft Co. Embroidered Lavender Jeans & Chinos,SoleCraft Co.,Men,men,894,1788,50,3.8,61,Lavender,2,Loungewear,All Season,Genuine Leather,78.6,0
+220,Aura & Silk Relaxed Fit White Loafers & Flats,Aura & Silk,Footwear,footwear,6188,9520,35,4.2,151,White,2,Party,All Season,Velvet Blend,78.2,0
+221,Aura & Silk Signature Beige Lipsticks & Lip Care,Aura & Silk,Beauty,beauty,2279,3507,35,4.7,361,Beige,4,Party,Summer,Genuine Leather,69.1,1
+222,Urban Thread Embroidered Red Fashion Jewellery,Urban Thread,Accessories,accessories,4992,9985,50,3.9,392,Red,2,Formal,Winter,Mulberry Silk,70.0,0
+223,Kritika Ethnics Textured Olive Tops & Tees,Kritika Ethnics,Women,women,2172,3104,30,4.4,293,Olive,6,Wedding,Summer,Genuine Leather,83.6,0
+224,Noir Paris Vintage Black Jackets & Hoodies,Noir Paris,Men,men,1179,2948,60,3.9,340,Black,2,Formal,Monsoon,Merino Wool,81.8,0
+225,Verona Street Boho Navy Formal Shoes,Verona Street,Footwear,footwear,5816,8948,35,4.5,692,Navy,2,Wedding,Monsoon,Selvedge Denim,73.2,1
+226,Aethel Modern Boho Charcoal Fragrances & Perfumes,Aethel Modern,Beauty,beauty,2279,3039,25,3.8,673,Charcoal,2,Casual,Summer,Genuine Leather,87.1,0
+227,Noir Paris Tailored Charcoal Fashion Jewellery,Noir Paris,Accessories,accessories,5596,7995,30,4.1,72,Charcoal,2,Wedding,All Season,Selvedge Denim,93.4,1
+228,Kritika Ethnics Boho Beige Dresses,Kritika Ethnics,Women,women,1389,3473,60,3.9,617,Beige,3,Casual,Winter,Rayon Chiffon,88.4,0
+229,Vibe Republic Tailored Pink Formal Shirts,Vibe Republic,Men,men,1251,3129,60,4.4,676,Pink,3,Formal,Monsoon,Rayon Chiffon,92.6,0
+230,Verona Street Bespoke Charcoal Loafers & Flats,Verona Street,Footwear,footwear,4304,8609,50,4.8,217,Charcoal,4,Sports,Monsoon,Selvedge Denim,89.5,0
+231,Stitch & Stone Textured Red Fragrances & Perfumes,Stitch & Stone,Beauty,beauty,1018,1455,30,4.0,727,Red,5,Wedding,Winter,Genuine Leather,67.5,0
+232,Aethel Modern Bespoke Navy Fashion Jewellery,Aethel Modern,Accessories,accessories,3041,6083,50,4.4,371,Navy,4,Loungewear,Winter,Rayon Chiffon,83.8,0
+233,Saffron Studio Artisanal Navy Trousers & Jeans,Saffron Studio,Women,women,3008,4011,25,3.9,798,Navy,3,Wedding,Winter,100% Cotton,85.1,0
+234,Vibe Republic Tailored Red Casual Shirts,Vibe Republic,Men,men,3777,6296,40,4.7,676,Red,4,Wedding,All Season,Merino Wool,76.6,0
+235,Stitch & Stone Vintage White Running & Training Shoes,Stitch & Stone,Footwear,footwear,1875,4688,60,4.4,221,White,4,Party,Summer,Mulberry Silk,83.7,0
+236,Loom & Weave Structured Emerald Serums & Skincare,Loom & Weave,Beauty,beauty,743,929,20,4.2,934,Emerald,3,Loungewear,Winter,Genuine Leather,73.8,0
+237,Verona Street Minimalist Maroon Handbags & Totes,Verona Street,Accessories,accessories,5842,9738,40,4.0,595,Maroon,2,Loungewear,Monsoon,Genuine Leather,92.3,0
+238,Velora Luxe Boho Emerald Trousers & Jeans,Velora Luxe,Women,women,3421,5264,35,4.3,862,Emerald,6,Casual,All Season,Organic Linen,73.3,0
+239,Stitch & Stone Signature Navy Casual Shirts,Stitch & Stone,Men,men,3471,5341,35,4.9,184,Navy,3,Formal,All Season,100% Cotton,71.3,0
+240,Vibe Republic Textured Beige Formal Shoes,Vibe Republic,Footwear,footwear,5450,7786,30,3.8,238,Beige,3,Party,Summer,Genuine Leather,90.9,0
+241,Aethel Modern Embroidered Beige Face Makeup & Blush,Aethel Modern,Beauty,beauty,956,1739,45,4.7,787,Beige,4,Sports,Summer,Merino Wool,91.1,1
+242,Noir Paris Signature Beige Sunglasses,Noir Paris,Accessories,accessories,5322,7096,25,4.5,850,Beige,4,Party,Winter,Selvedge Denim,71.7,0
+243,Aura & Silk Boho Olive Trousers & Jeans,Aura & Silk,Women,women,3282,4689,30,4.9,218,Olive,4,Wedding,All Season,Rayon Chiffon,83.4,1
+244,Aethel Modern Minimalist Pink Jeans & Chinos,Aethel Modern,Men,men,3090,6180,50,3.9,491,Pink,2,Party,Winter,Mulberry Silk,68.2,1
+245,Kritika Ethnics Embroidered Burgundy Loafers & Flats,Kritika Ethnics,Footwear,footwear,5659,8707,35,4.1,924,Burgundy,2,Wedding,Summer,Rayon Chiffon,89.6,0
+246,Kritika Ethnics Embroidered Olive Fragrances & Perfumes,Kritika Ethnics,Beauty,beauty,1564,2845,45,4.9,317,Olive,2,Wedding,All Season,Velvet Blend,67.7,0
+247,Aura & Silk Tailored Red Fashion Jewellery,Aura & Silk,Accessories,accessories,1728,3142,45,4.0,935,Red,2,Formal,Winter,100% Cotton,85.7,0
