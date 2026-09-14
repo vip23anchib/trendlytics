@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import { useNavigate, Link } from 'react-router-dom';
 import { 
-  ShieldCheck, CheckCircle2, Truck, CreditCard, 
-  MapPin, ArrowRight, Loader2, Sparkles, AlertCircle, ShoppingBag
+  ShieldCheck, CheckCircle2, CreditCard, 
+  MapPin, Loader2, Sparkles, AlertCircle
 } from 'lucide-react';
 import { useCart } from '../context/CartContext';
 import { useAuth } from '../context/AuthContext';

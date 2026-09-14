@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { BarChart3, Shield, Sparkles, Database, FileText, GitBranch, Terminal } from 'lucide-react';
+import { BarChart3, Shield } from 'lucide-react';
 
 export default function Footer() {
   return (

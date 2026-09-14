@@ -1,10 +1,9 @@
 import React, { useState, useEffect } from 'react';
-import { Activity, Radio, ChevronUp, ChevronDown, Trash2, ShieldCheck, Zap } from 'lucide-react';
+import { Activity, Radio, ChevronUp, ChevronDown, Trash2, ShieldCheck } from 'lucide-react';
 
 export default function LiveTelemetryStreamModal() {
   const [events, setEvents] = useState([]);
   const [isOpen, setIsOpen] = useState(false);
-  const [unreadCount, setUnreadCount] = useState(0);
 
   useEffect(() => {
     const handleEvent = (e) => {

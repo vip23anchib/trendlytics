@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { 
-  Heart, Star, ShoppingBag, Truck, ShieldCheck, RefreshCw, 
-  ChevronRight, Sparkles, Check, AlertCircle, Info, Zap
+  Heart, Star, ShoppingBag, Truck, 
+  ChevronRight, Sparkles, Check, AlertCircle, Zap
 } from 'lucide-react';
 import { useCart } from '../context/CartContext';
 import { trackEvent } from '../utils/telemetry';

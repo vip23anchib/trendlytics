@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { 
   Trash2, ShoppingBag, ArrowRight, Tag, ShieldCheck, 
-  Truck, CheckCircle, ChevronRight, AlertCircle, Plus, Minus
+  CheckCircle, Plus, Minus
 } from 'lucide-react';
 import { useCart } from '../context/CartContext';
 import { trackEvent } from '../utils/telemetry';

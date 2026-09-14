@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Link, useNavigate, useLocation } from 'react-router-dom';
 import { 
   Search, ShoppingBag, Heart, BarChart3, Sparkles, UserCheck, 
-  Menu, X, Sliders, ChevronDown, CheckCircle2, ShieldCheck, Zap
+  Menu, X, ChevronDown, ShieldCheck
 } from 'lucide-react';
 import { useAuth } from '../context/AuthContext';
 import { useCart } from '../context/CartContext';

@@ -1,12 +1,11 @@
 import React, { useState, useEffect } from 'react';
 import { 
-  BarChart3, TrendingUp, Users, ShoppingBag, DollarSign, 
-  Sparkles, Search, Layers, ShieldCheck, ArrowUpRight, ArrowDownRight, 
-  Activity, RefreshCw, Smartphone, Monitor, AlertTriangle, CheckCircle2, ChevronRight
+  BarChart3, Layers, Sparkles, Search, ShoppingBag, 
+  Activity, RefreshCw, AlertTriangle, CheckCircle2, ArrowUpRight
 } from 'lucide-react';
 import { 
-  ResponsiveContainer, BarChart, Bar, XAxis, YAxis, Tooltip, 
-  LineChart, Line, CartesianGrid, PieChart, Pie, Cell 
+  ResponsiveContainer, XAxis, YAxis, Tooltip, 
+  LineChart, Line, CartesianGrid
 } from 'recharts';
 
 export default function AnalyticsDashboardPage() {

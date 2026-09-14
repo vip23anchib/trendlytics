@@ -1,8 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { 
-  Sparkles, ArrowRight, TrendingUp, ShieldCheck, Zap, 
-  ShoppingBag, Star, Tag, ChevronRight, Compass, Search
+  Sparkles, ArrowRight, TrendingUp, Tag, ChevronRight, Compass, Search
 } from 'lucide-react';
 import ProductCard from '../components/ProductCard';
 import { trackEvent } from '../utils/telemetry';

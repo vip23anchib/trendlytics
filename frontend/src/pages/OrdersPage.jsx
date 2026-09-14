@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
-import { Package, Clock, Truck, ChevronRight, ShoppingBag } from 'lucide-react';
+import { Package } from 'lucide-react';
 import { useAuth } from '../context/AuthContext';
 import { getSessionId } from '../utils/telemetry';
 

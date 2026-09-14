@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { useSearchParams, Link } from 'react-router-dom';
 import { 
-  Search, Sparkles, SlidersHorizontal, ArrowUpDown, Clock, 
-  Cpu, CheckCircle, AlertTriangle, RefreshCw, Filter, Compass
+  Search, Sparkles, Clock, 
+  Cpu, AlertTriangle, RefreshCw
 } from 'lucide-react';
 import ProductCard from '../components/ProductCard';
 import { useExperiment } from '../context/ExperimentContext';

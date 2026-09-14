@@ -1,8 +1,8 @@
 import React, { useEffect } from 'react';
 import { useParams, useLocation, Link } from 'react-router-dom';
 import { 
-  CheckCircle, Package, Truck, ArrowRight, BarChart3, 
-  MapPin, CreditCard, Sparkles, ShoppingBag 
+  CheckCircle, Truck, BarChart3, 
+  ShoppingBag 
 } from 'lucide-react';
 import confetti from 'canvas-confetti';
 

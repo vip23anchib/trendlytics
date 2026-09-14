@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Heart, Star, ShoppingBag, Zap, Check } from 'lucide-react';
+import { Heart, Star, ShoppingBag, Zap } from 'lucide-react';
 import { useCart } from '../context/CartContext';
 import { trackEvent } from '../utils/telemetry';
 
