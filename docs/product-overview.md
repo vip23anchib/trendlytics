@@ -11,7 +11,15 @@ In fast-fashion and lifestyle e-commerce, discovering the right product with nua
 
 **Trendlytics** is an end-to-end full-stack fashion marketplace built with a tightly integrated **First-Party Product Telemetry & Behavioral Analytics Engine**. It demonstrates the complete closed-loop product management lifecycle:
 
-$$\text{Telemetry Events} \longrightarrow \text{SQL / Funnel Analysis} \longrightarrow \text{Root-Cause Diagnostic} \longrightarrow \text{Product Hypothesis} \longrightarrow \text{AI Search Solution} \longrightarrow \text{A/B Experiment} \longrightarrow \text{PM Decision}$$
+```mermaid
+flowchart LR
+    A["📡 Telemetry Events"] --> B["📊 SQL / Funnel Analysis"]
+    B --> C["🔍 Root-Cause Diagnostic"]
+    C --> D["💡 Product Hypothesis"]
+    D --> E["🤖 AI Search Solution"]
+    E --> F["🧪 A/B Experiment"]
+    F --> G["🚀 PM Decision"]
+```
 
 ---
 

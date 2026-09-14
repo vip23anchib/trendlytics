@@ -6,7 +6,8 @@
 
 The Trendlytics customer funnel tracks the user trajectory across 5 canonical stages:
 
-$$\text{Sessions (100\%)} \xrightarrow{62.2\%} \text{Product Views (62.2\%)} \xrightarrow{56.8\%} \text{Add to Cart (35.3\%)} \xrightarrow{68.9\%} \text{Checkout (24.3\%)} \xrightarrow{81.9\%} \text{Purchase (19.9\%)}$$
+> **Overall Funnel Conversion Flow:**  
+> `Sessions (100%)` ➔ `Product Views (62.2%)` ➔ `Add to Cart (35.3%)` ➔ `Checkout (24.3%)` ➔ `Purchase (19.9%)`
 
 ```
 +-----------------------------------------------------------------------------------+

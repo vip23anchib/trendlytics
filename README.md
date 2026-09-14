@@ -23,7 +23,16 @@ Traditional lexical/keyword search engines fail on multi-faceted queries, causin
 
 **Trendlytics** was architected from the ground up to solve this problem and demonstrate the complete, rigorous product management and engineering loop:
 
-$$\text{Behavioral Telemetry} \longrightarrow \text{Funnel & SQL Analytics} \longrightarrow \text{Root-Cause Diagnostic} \longrightarrow \text{Product PRD} \longrightarrow \text{AI Search Solution} \longrightarrow \text{A/B Experiment} \longrightarrow \text{Executive Decision}$$
+```mermaid
+flowchart LR
+    A["📡 Behavioral Telemetry"] --> B["📊 Funnel & SQL Analytics"]
+    B --> C["🔍 Root-Cause Diagnostic"]
+    C --> D["📋 Product PRD"]
+    D --> E["🤖 AI Search Solution"]
+    E --> F["🧪 A/B Experiment"]
+    F --> G["🚀 Executive Decision"]
+```
+*(Telemetry ➔ Funnel Diagnostics ➔ PRD Formulation ➔ AI Solution ➔ A/B Experimentation ➔ Executive Decision)*
 
 ---
 
@@ -110,11 +119,11 @@ $$\text{Behavioral Telemetry} \longrightarrow \text{Funnel & SQL Analytics} \lon
 
 | Metric | Control (Keyword Search) | Treatment (AI Intent Search) | Absolute Lift | Relative Uplift | Statistical Significance |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Search-to-Purchase Conversion** | $4.20\%$ | $6.30\%$ | $+2.10\%$ | **$+50.0\%$** | $Z = 3.61, p < 0.001$ ✅ |
-| **Zero-Result Query Rate** | $14.20\%$ | $2.10\%$ | $-12.10\%$ | **$-85.2\%$** | $Z = 12.84, p < 0.0001$ ✅ |
-| **Search-to-PDP Click-Through** | $32.40\%$ | $46.80\%$ | $+14.40\%$ | **$+44.4\%$** | $Z = 7.12, p < 0.001$ ✅ |
-| **Search-to-Cart Conversion** | $8.60\%$ | $13.10\%$ | $+4.50\%$ | **$+52.3\%$** | $Z = 4.88, p < 0.001$ ✅ |
-| **P95 Search Response Latency** | $42\text{ ms}$ | $185\text{ ms}$ | $+143\text{ ms}$ | Within SLA | Safe ($< 300\text{ ms}$ SLA) ✅ |
+| **Search-to-Purchase Conversion** | 4.20% | 6.30% | +2.10% | **+50.0%** | Z = 3.61, p < 0.001 ✅ |
+| **Zero-Result Query Rate** | 14.20% | 2.10% | -12.10% | **-85.2%** | Z = 12.84, p < 0.0001 ✅ |
+| **Search-to-PDP Click-Through** | 32.40% | 46.80% | +14.40% | **+44.4%** | Z = 7.12, p < 0.001 ✅ |
+| **Search-to-Cart Conversion** | 8.60% | 13.10% | +4.50% | **+52.3%** | Z = 4.88, p < 0.001 ✅ |
+| **P95 Search Response Latency** | 42 ms | 185 ms | +143 ms | Within SLA | Safe (< 300 ms SLA) ✅ |
 
 ---
 
